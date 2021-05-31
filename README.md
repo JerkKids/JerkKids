@@ -1,4 +1,4 @@
-!(wuwu.png)
+![Screenshot](wuwu.png)
 
 ### Hello Guys 👋👋
 
@@ -14,6 +14,12 @@ My Name Is JerkKids👋, A Student From Muhammadiyah Indonesia🏫🇲🇨
 - :book: The more you take, the less you get
 - 🌱🐺 I’m Currently Learning [stegosploit](https://github.com/csh/stegosploit) And Learn Something New
 - 💬 [Ask Me About anything](https://github.com/JerkKids/Ask), I am  Very Happy To Help 🕊️🕊️
+
+<h2>📧 Contact</h2>
+<lh3>You Want Ask About  My Tools Or Being a Business Friend
+<br>E-mail : dekxter1111@gmail.com
+<hr>
+<hr>
 
 - **Programming**:
 
