@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/JerkKids/master/JerkKids/milos.gif "Header")](https://github.com/JerkKids)
+[![Header](https://raw.githubusercontent.com/JerkKids/master/JerkKids/wuwu.png "Header")](https://github.com/JerkKids)
 
 #Hello, Guys 👋😁
 
@@ -13,10 +13,11 @@ Keep Trying To Learn Something, I Also Learning To Create A Website So Keep Wait
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+## ✨ U Can Contact Me
 
-[![Facebook](https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=Facebook&logoColor=white&link=https://https://fac>
-[![Telegram](https://img.shields.io/badge/-Telegram-222222?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/JerkKid
-[![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram
+[![Facebook](https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=Facebook&logoColor=white&link=https://https://facebook.com/JerkKids)](https://facebook.com/JerkKids
+[![Telegram](https://img.shields.io/badge/-Telegram-222222?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/JerkKids)](https://t.me/JerkKids)
+[![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/JerkKids)](https://instagram.com/jerkkids)
 
 ## &#x1f4c8; GitHub Stats
 
