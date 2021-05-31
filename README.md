@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/JerkKids/master/JerkKids/wuwu.png "Header")](https://github.com/JerkKids)
+[![Header](https://raw.githubusercontent.com/JerkKids/JerkKids/wuwu.png "Header")](https://github.com/JerkKids)
 
 #Hello, Guys 👋😁
 
