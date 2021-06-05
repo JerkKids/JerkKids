@@ -1,30 +1,27 @@
-![Screenshot](wuwu.png)
+<!-- List Of Websites-->
+[github]: https://github.com/jerkkids
+[telegram]: https://t.me/jerkkids
+[twitter]: https://www.twitter.com/jerkkids
+[reddit]: https://www.reddit.com/user/jerkkids
+[etherium]: https://link.trustwallet.com/send?coin=60&address=0x85c394b1Ee957C0CA43EFB4fC6F9AcEc3fC8CA60
+[instagram]: https://www.instagram.com/aditya__shakya
+[gmail]: dekxter1111@gmail.com
+[linkedin]: https://www.buymeacoffee.com/adi1090x
+[discord]: https://ko-fi.com/adi1090x
+[dana]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U3VK2SSVQWAPN
+[bitcoin]: https://rebrand.ly/donatejerk
 
-### Hello Guys 👋👋
+## Hey, Losers <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+[![Header](https://raw.githubusercontent.com/JerkKids/master/JerkKids/wuwu.png "Header")](https://github.com/JerkKids)
+## Let Me Introduce My Self
+My Name Is JerkKids A Students From Muhammadiyah High School 🏫
 
-My Name Is JerkKids👋, A Student From Muhammadiyah Indonesia🏫🇲🇨
+-👨 My Hobby Is Looking For Weakness
+-🐈 A Cat Lover ❤️
+-🌱🐺 Iam Currently Learning [steganography](https://stegosploit.info.com)
+- 💬 [Ask Me About Anything](https://github.com/JerkKids/ask)
 
-# 📌 U Can Also Contact Me
-[![Github](https://img.shields.io/badge/-Github-222222?style=flat-square&logo=Github&logoColor=white)](https://github.com/JerkKids)
-[![Facebook](https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=Facebook&logoColor=white&link=https://https://facebook.com/JerkKids)](https://facebook.com/JerkKids)
-[![Telegram](https://img.shields.io/badge/-Telegram-222222?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/JerkKids)](https://t.me/JerkKids)
-[![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram/jerkkids)](https://instagram.com/jerkkids)
+## U Can Also Contact Me Link In Below ⬇️ ⬇️
 
-- 👨📱🐰 My Hobby Is Nothing, I Working My Projects Like [Rex](https://github.com/Jerkx/rex_project), [spider](https://github.com/Jerkx/spider_project), [Virus](https://github.com/CatLearning), [Uroboros](https://github.com/JerkX/uroboros_project) on my free time
-- :book: The more you take, the less you get
-- 🌱🐺 I’m Currently Learning [stegosploit](https://github.com/csh/stegosploit) And Learn Something New
-- 💬 [Ask Me About anything](https://github.com/JerkKids/Ask), I am  Very Happy To Help 🕊️🕊️
+[<img align="left" alt="JerkKids | Bitcoin" width="22px" src="https://rebrand.ly/donatejerk" />][bitcoin]
 
-<h2>📧 Contact</h2>
-<lh3>You Want Ask About  My Tools Or Being a Business Friend
-<br>E-mail : dekxter1111@gmail.com
-<hr>
-<hr>
-
-- **Programming**:
-
- ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
- ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) 
- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-
-- **Languages**: Indo🇲🇨, English🇬🇧, Arabic🇸🇦
