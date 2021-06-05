@@ -10,6 +10,6 @@ My Name Is JerkKids A Students From Muhammadiyah High School 🏫
 
 ## U Can Also Contact Me Link In Below ⬇️ ⬇️
 
-![[Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram/jerkkids)]
 
 
+[<img align="left" alt="adi1090x | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][Twitter]
