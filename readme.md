@@ -21,4 +21,6 @@ My Name Is JerkKids A Students From Muhammadiyah High School 🏫
 
 
 
-[<img align="left" alt="adi1090x | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][Twitter]
+[<img align="left" alt="adi1090x | Twitter" width="22px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+
+" />][Twitter]
